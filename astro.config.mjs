@@ -1,7 +1,6 @@
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import AutoImport from "astro-auto-import";
-// import HeaderLink from '../../components/HeaderLink.astro';
 
 import sitemap from "@astrojs/sitemap";
 
